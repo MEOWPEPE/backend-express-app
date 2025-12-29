@@ -10,7 +10,7 @@ const corsOptions = {
         "http://localhost:5173",
         "http://localhost:5174",
         "http://localhost:5175",
-        "https://fontend-express-app.vercel.app/"
+        "https://fontend-express-app.vercel.app"
     ]
 };
 
